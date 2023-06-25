@@ -2,8 +2,8 @@
 
 A developer with strong background in front end fundamentals, looking for new opportunities to create impact and make a difference.
 
-Houston, Texas, US | +1 (281) 507-8302 | me@wesleyliaw.com
-[github.com/wesleyliaw777](https://github.com/wesleyliaw777) | [linkedin.com/in/wesleyliaw](https://linkedin.com/in/wesleyliaw) | [wesleyliaw.com](https://wesleyliaw.com)
+Houston, Texas, US | +1 (281) 507-8302 | [me@wesleyliaw.com](me@wesleyliaw.com)
+[github.com/wesleyliaw777](https://github.com/wesleyliaw777) | [linkedin.com/in/wesleyliaw] | (https://linkedin.com/in/wesleyliaw) | [wesleyliaw.com](https://wesleyliaw.com)
 
 ## WORK EXPERIENCE
 
@@ -31,7 +31,7 @@ Houston, Texas, US | +1 (281) 507-8302 | me@wesleyliaw.com
 
 ## PROJECTS
 
-**Netflix Clone | Website | GitHub**
+**Netflix Clone | [Website](https://block-movie-clone-zeta-taupe.vercel.app/) | GitHub**
 
 - Created a fully responsive movie app that leveraged the TMDB API to access 500,000+ movies.
 - Built with React, Next.js, Tailwind, and Firebase Authentication.
