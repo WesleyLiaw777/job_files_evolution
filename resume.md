@@ -1,55 +1,53 @@
 # Wesley Liaw
 
-- Email: me@wesleyliaw.com
-- Website: [wesleyliaw.com](https://wesleyliaw.com)
-- Phone: 281-507-8302
+A developer with strong background in front end fundamentals, looking for new opportunities to create impact and make a difference.
 
-## Education
+Houston, Texas, US | +1 (281) 507-8302 | me@wesleyliaw.com
+[github.com/wesleyliaw777](https://github.com/wesleyliaw777) | [linkedin.com/in/wesleyliaw](https://linkedin.com/in/wesleyliaw) | [wesleyliaw.com](https://wesleyliaw.com)
 
-- The University of Texas at Austin
-- Bachelor of Science & Arts in Computer Science
+## WORK EXPERIENCE
 
-## Experience
+**Frontend Developer, WE-MU Studio** *(May 2022 – Present)*
 
-**Junior Frontend Developer**\
-WE-MU Web Development Agency *(May 2022 - Present)*
+- Built responsive websites for businesses, employing HTML, CSS, JavaScript, and React best practices.
+- Implemented React Links, skeleton loading states, and lazy loading technique to improve webpage performance by 15%.
+- Streamlined and optimized project timelines by implementing Agile methodology, resulting in a 30% reduction in project delivery time.
 
-- Built responsive websites for diverse businesses, employing HTML, CSS, JavaScript, and React best practices.
-- Achieved a significant 15% improvement in webpage performance by implementing React Links, skeleton loading states, and lazy loading techniques.
-- Streamlined and optimized project timelines by implementing Agile methodology, resulting in a 30% reduction in project delivery time and increased team productivity by 40%.
-
-**Frontend Developer Internship**\
-Frontend Simplified *(Dec 2021 – May 2022)*
+**Frontend Intern, Frontend Simplified | Website | Github** *(Dec 2021 – May 2022)*
 
 - Transformed a completely static HTML, CSS, JavaScript, and React single page application into an interactive user interface using animations, transitions, and carousels.
-- Processed API requests with Axios to dynamically represent data from a cloud server and represented it through skeleton loading states, pagination, and dynamic routing.
-- Utilized Git version control and the GitHub interface to work and thrive in a virtual and collaborative team environment.
+- Processed API requests with Axios to dynamically represent data from a cloud server and represented it through skeleton loading states, pagination, and dynamic routing, enhancing user experience and improving data visualization.
+- Utilized Git version control and the GitHub interface to collaborate with virtual team members, ensuring smooth code integration, streamlined version management, and efficient communication throughout the development process.
 
-## Projects
+## SKILLS
 
-- Personal Website – [wesleyliaw.com](https://wesleyliaw.com)
-  - My personal website highlights my programming skills and contains the source code and website links for all my projects listed below.
+- Programming Languages: JavaScript (Expert), HTML (Expert), CSS (Expert), TypeScript (Fluent)
+- Frameworks: React (Expert), Tailwind CSS (Fluent), Next.js, Material-UI, Redux, Recoil
+- Technology: NPM, Git, Yarn, SASS, Firebase v9, ESLint
 
-- Netflix Clone | [Website](#) | [GitHub](#)
-  - Created a fully responsive movie app with Next.js, Tailwind, and Firebase Authentication.
-  - Implemented Recoil State Management to efficiently manage the application’s state.
-  - Integrated Stripe Payment for seamless and secure online transactions.
-  - Optimized API request handling with Server-Side Rendering (SSR) for concurrent data fetching, improving SEO by 50%.
-  - Built using React, JavaScript, HTML, and CSS best practices.
+## EDUCATION
 
-- Twitter Clone | [Website](#) | [GitHub](#)
-  - Developed a feature-rich social media app for posting tweets, comments, and likes, providing users with a comprehensive platform.
-  - Implemented Redux for efficient state management throughout the application.
-  - Utilized Server-Side Rendering (SSR) to enhance search engine visibility and optimize performance.
-  - Programmed with Next.js, Tailwind, and Firebase Authentication.
+**Bachelor of Science & Arts, Computer Science, University of Texas at Austin** *(May 2020)*
 
-- Spotify Clone | [Website](#) | [GitHub](#)
-  - Engineered a fully responsive music player leveraging the Spotify API to search and play songs from users' favorite artists.
-  - Designed with Next Authentication and Recoil.js for streamlined state management and enhanced user experience.
-  - Built using React, JavaScript, HTML, and CSS best practices.
+## PROJECTS
 
-## Technical Skills
+**Netflix Clone | Website | GitHub**
 
-- Languages: HTML5 | CSS3 (+ SCSS, BEM) | JavaScript ES6+ | Typescript
-- Frameworks: React (+ hooks) | Next.js | Material-UI | Redux
-- Technology: NPM | Git | Yarn | React dev tools | Firebase v9 | GitHub
+- Created a fully responsive movie app that leveraged the TMDB API to access 500,000+ movies.
+- Built with React, Next.js, Tailwind, and Firebase Authentication.
+- Optimized API request handling with Server-Side Rendering (SSR) for concurrent data fetching to improve SEO by 25%.
+- Implemented Recoil State Management to efficiently manage the application’s state.
+- Integrated Stripe Payment for seamless and secure online transactions.
+
+**Twitter Clone | Website | GitHub**
+
+- Developed a feature-rich social media app for posting tweets, comments, and likes.
+- Implemented Redux for efficient state management throughout the application.
+- Utilized Server-Side Rendering (SSR) to enhance search engine visibility and optimize performance.
+- Programmed with Next.js, Tailwind, and Firebase Authentication.
+
+**Spotify Clone | Website | GitHub**
+
+- Engineered a fully responsive music player leveraging the Spotify API to search and play songs from users' favorite artists.
+- Designed with Next Authentication and Recoil.js for streamlined state management and enhanced user experience.
+- Built using React, JavaScript, HTML, and CSS best practices.
