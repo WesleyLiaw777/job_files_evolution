@@ -2,8 +2,8 @@
 
 A developer with strong background in front end fundamentals, looking for new opportunities to create impact and make a difference.
 
-Houston, Texas, US | +1 (281) 507-8302 | [me@wesleyliaw.com](me@wesleyliaw.com)
-[github.com/wesleyliaw777](https://github.com/wesleyliaw777) | [linkedin.com/in/wesleyliaw] | (https://linkedin.com/in/wesleyliaw) | [wesleyliaw.com](https://wesleyliaw.com)
+Houston, Texas, US | +1 (281) 507-8302 | [me@wesleyliaw.com](mailto:me@wesleyliaw.com) | 
+[github.com/wesleyliaw777](https://github.com/wesleyliaw777) | [linkedin.com/in/wesleyliaw](https://linkedin.com/in/wesleyliaw) | [wesleyliaw.com](https://wesleyliaw.com)
 
 ## WORK EXPERIENCE
 
@@ -31,7 +31,7 @@ Houston, Texas, US | +1 (281) 507-8302 | [me@wesleyliaw.com](me@wesleyliaw.com)
 
 ## PROJECTS
 
-**Netflix Clone | [Website](https://block-movie-clone-zeta-taupe.vercel.app/) | GitHub**
+**Netflix Clone | [Website](https://block-movie-clone-zeta-taupe.vercel.app/) | [GitHub](https://github.com/WesleyLiaw777/netflix-clone)**
 
 - Created a fully responsive movie app that leveraged the TMDB API to access 500,000+ movies.
 - Built with React, Next.js, Tailwind, and Firebase Authentication.
@@ -39,14 +39,14 @@ Houston, Texas, US | +1 (281) 507-8302 | [me@wesleyliaw.com](me@wesleyliaw.com)
 - Implemented Recoil State Management to efficiently manage the application’s state.
 - Integrated Stripe Payment for seamless and secure online transactions.
 
-**Twitter Clone | Website | GitHub**
+**Twitter Clone | [Website](https://twitter-clone-eight-khaki.vercel.app/) | [GitHub](https://github.com/WesleyLiaw777/twitter-clone)**
 
 - Developed a feature-rich social media app for posting tweets, comments, and likes.
 - Implemented Redux for efficient state management throughout the application.
 - Utilized Server-Side Rendering (SSR) to enhance search engine visibility and optimize performance.
 - Programmed with Next.js, Tailwind, and Firebase Authentication.
 
-**Spotify Clone | Website | GitHub**
+**Spotify Clone | [Website](https://splatify-player.vercel.app/) | [GitHub](https://github.com/WesleyLiaw777/spotify-clone)**
 
 - Engineered a fully responsive music player leveraging the Spotify API to search and play songs from users' favorite artists.
 - Designed with Next Authentication and Recoil.js for streamlined state management and enhanced user experience.
