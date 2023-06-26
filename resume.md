@@ -1,7 +1,5 @@
 # Wesley Liaw
 
-A developer with a strong background in front-end fundamentals, looking for new opportunities to create impact and make a difference.
-
 Houston, Texas, US | +1 (281) 507-8302 | [me@wesleyliaw.com](mailto:me@wesleyliaw.com) | [github.com/wesleyliaw777](https://github.com/wesleyliaw777) | [linkedin.com/in/wesleyliaw](https://linkedin.com/in/wesleyliaw) | [wesleyliaw.com](https://wesleyliaw.com)
 
 ## WORK EXPERIENCE
