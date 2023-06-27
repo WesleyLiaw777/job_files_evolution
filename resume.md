@@ -19,8 +19,8 @@ Houston, Texas, US | +1 (281) 507-8302 | [me@wesleyliaw.com](mailto:me@wesleylia
 ## SKILLS
 
 - Programming Languages: JavaScript, HTML5, CSS3, TypeScript
-- Frameworks: React, Tailwind CSS, Next.js, Material-UI, Redux, Recoil
-- Technology: NPM, Git, Yarn, SASS, Firebase v9, ESLint
+- Frameworks: React, Tailwind CSS, Next.js, Material-UI, Redux, Recoil, Jest
+- Technology: NPM, Git, Yarn, SASS, Firebase v9, ESLint, JSON, jQuery
 
 ## EDUCATION
 
