@@ -1,5 +1,5 @@
 <span style="font-size: 20px;">Wesley Liaw</span><br>
-me@wesleyliaw.com<br>
+[me@wesleyliaw.com](mailto:me@wesleyliaw.com)<br>
 +1 (281) 507-8302<br>  
 
 To whom it may concern,
@@ -17,7 +17,7 @@ In addition to my technical skills, I am a collaborative team player with excell
 My E-Portfolio below highlights my strong skills for frontend development, along with other
 skills that also align with this position.
 
-https://www.wesleyliaw.com
+[https://www.wesleyliaw.com](https://www.wesleyliaw.com)
 
 Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
 
